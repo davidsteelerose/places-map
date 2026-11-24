@@ -1,0 +1,1570 @@
+{
+  "note": "City-level snapshot for friends. Approximate pins, no streets, no notes, not a live GPS feed.",
+  "lastEntryAt": "2026-11-24T06:38:51.281Z",
+  "counts": {
+    "saved": 93,
+    "automated": 63
+  },
+  "places": [
+    {
+      "id": "sp_3ac0cddaff72d606",
+      "kind": "saved",
+      "name": "Cottonwood Heights",
+      "city": "Utah",
+      "latitude": 40.61173,
+      "longitude": -111.80707,
+      "firstSeen": "2026-03-20",
+      "lastSeen": "2026-03-21"
+    },
+    {
+      "id": "sp_e2a3b8b8e56c3e0a",
+      "kind": "saved",
+      "name": "Brighton",
+      "city": "Utah",
+      "latitude": 40.62423,
+      "longitude": -111.60085,
+      "firstSeen": "2026-03-20",
+      "lastSeen": "2026-03-20"
+    },
+    {
+      "id": "sp_81d6264fb6369dcf",
+      "kind": "saved",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.57605,
+      "longitude": -82.53671,
+      "firstSeen": "2026-03-22",
+      "lastSeen": "2026-11-08"
+    },
+    {
+      "id": "sp_e6133f6545b0dd05",
+      "kind": "saved",
+      "name": "Durham",
+      "city": "Durham",
+      "latitude": 35.97472,
+      "longitude": -78.93573,
+      "firstSeen": "2026-03-23",
+      "lastSeen": "2026-03-23"
+    },
+    {
+      "id": "sp_51bc9f36eb11398e",
+      "kind": "saved",
+      "name": "Durham",
+      "city": "Durham",
+      "latitude": 36.00787,
+      "longitude": -78.94681,
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    {
+      "id": "sp_0a90ecc87a7ee47e",
+      "kind": "saved",
+      "name": "Durham",
+      "city": "Durham",
+      "latitude": 36.00684,
+      "longitude": -78.94008,
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    {
+      "id": "sp_64864a4029761758",
+      "kind": "saved",
+      "name": "Chapel Hill",
+      "city": "Chapel Hill",
+      "latitude": 35.93857,
+      "longitude": -79.02874,
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    {
+      "id": "sp_48611c8656621822",
+      "kind": "saved",
+      "name": "Kent",
+      "city": "Kent",
+      "latitude": 30.515,
+      "longitude": -81.92246,
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    {
+      "id": "sp_9fac5a39f34ec16d",
+      "kind": "saved",
+      "name": "US 441;GA 89;GA 94",
+      "city": "Edith",
+      "latitude": 30.67914,
+      "longitude": -82.55552,
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    {
+      "id": "sp_e15f0e74823d734e",
+      "kind": "saved",
+      "name": "White Springs",
+      "city": "White Springs",
+      "latitude": 30.33457,
+      "longitude": -82.7719,
+      "firstSeen": "2026-03-26",
+      "lastSeen": "2026-03-28"
+    },
+    {
+      "id": "sp_19e70cbe68082090",
+      "kind": "saved",
+      "name": "White Springs",
+      "city": "White Springs",
+      "latitude": 30.33358,
+      "longitude": -82.77131,
+      "firstSeen": "2026-03-28",
+      "lastSeen": "2026-03-28"
+    },
+    {
+      "id": "sp_2fe73bd60c6b1e66",
+      "kind": "saved",
+      "name": "Hamilton County",
+      "city": "Hamilton County",
+      "latitude": 30.34686,
+      "longitude": -82.84853,
+      "firstSeen": "2026-03-29",
+      "lastSeen": "2026-03-29"
+    },
+    {
+      "id": "sp_646f60b8a6a05540",
+      "kind": "saved",
+      "name": "Woods Ferry",
+      "city": "Suwannee River Trail",
+      "latitude": 30.35352,
+      "longitude": -82.8525,
+      "firstSeen": "2026-03-29",
+      "lastSeen": "2026-03-29"
+    },
+    {
+      "id": "sp_142dd389e835c66f",
+      "kind": "saved",
+      "name": "Woods Ferry",
+      "city": "Suwannee River Trail",
+      "latitude": 30.35637,
+      "longitude": -82.85733,
+      "firstSeen": "2026-03-29",
+      "lastSeen": "2026-03-29"
+    },
+    {
+      "id": "sp_d279b9b09c70e862",
+      "kind": "saved",
+      "name": "Hamilton County",
+      "city": "Hamilton County",
+      "latitude": 30.4204,
+      "longitude": -83.00788,
+      "firstSeen": "2026-03-30",
+      "lastSeen": "2026-03-31"
+    },
+    {
+      "id": "sp_938fea1d58636ab1",
+      "kind": "saved",
+      "name": "Hamilton County",
+      "city": "Hamilton County",
+      "latitude": 30.43154,
+      "longitude": -83.03909,
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    {
+      "id": "sp_5e3036f47523f280",
+      "kind": "saved",
+      "name": "Ellaville",
+      "city": "Ellaville",
+      "latitude": 30.38926,
+      "longitude": -83.17258,
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    {
+      "id": "sp_c6d5c2ecd5006778",
+      "kind": "saved",
+      "name": "Chancey",
+      "city": "Chancey",
+      "latitude": 30.22587,
+      "longitude": -83.26178,
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    {
+      "id": "sp_05e6db776aa92ac1",
+      "kind": "saved",
+      "name": "CR 251",
+      "city": "Chancey",
+      "latitude": 30.22431,
+      "longitude": -83.25593,
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    {
+      "id": "sp_87980824a484bb2a",
+      "kind": "saved",
+      "name": "Lafayette County",
+      "city": "Lafayette County",
+      "latitude": 30.12219,
+      "longitude": -83.22589,
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    {
+      "id": "sp_a14a83601caf1a80",
+      "kind": "saved",
+      "name": "Hal Adams Bridge",
+      "city": "Hal Adams Bridge",
+      "latitude": 30.09885,
+      "longitude": -83.16764,
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    {
+      "id": "sp_e3a9f77ac9079872",
+      "kind": "saved",
+      "name": "Suwannee County",
+      "city": "Suwannee County",
+      "latitude": 30.0639,
+      "longitude": -83.02354,
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    {
+      "id": "sp_09b64678c721cb42",
+      "kind": "saved",
+      "name": "Laf718972 Spring",
+      "city": "Jeff Walker Road",
+      "latitude": 30.01371,
+      "longitude": -83.00617,
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    {
+      "id": "sp_2f24134a6689c4a4",
+      "kind": "saved",
+      "name": "Branford",
+      "city": "Branford",
+      "latitude": 29.95246,
+      "longitude": -82.92537,
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    {
+      "id": "sp_c857d8e1531837cd",
+      "kind": "saved",
+      "name": "US 129",
+      "city": "Sandy Point",
+      "latitude": 29.9398,
+      "longitude": -82.85538,
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    {
+      "id": "sp_811dfbbe3fa15848",
+      "kind": "saved",
+      "name": "Pot Hole Spring",
+      "city": "Northeast 937 Avenue",
+      "latitude": 29.81187,
+      "longitude": -82.93885,
+      "firstSeen": "2026-04-05",
+      "lastSeen": "2026-04-05"
+    },
+    {
+      "id": "sp_d28b2ac4f9bf71ce",
+      "kind": "saved",
+      "name": "Guaranto Spring",
+      "city": "Northeast 816th Avenue",
+      "latitude": 29.77819,
+      "longitude": -82.94124,
+      "firstSeen": "2026-04-05",
+      "lastSeen": "2026-04-05"
+    },
+    {
+      "id": "sp_2093951bffa05635",
+      "kind": "saved",
+      "name": "Fanning Springs",
+      "city": "Fanning Springs",
+      "latitude": 29.58786,
+      "longitude": -82.93654,
+      "firstSeen": "2026-04-06",
+      "lastSeen": "2026-04-06"
+    },
+    {
+      "id": "sp_85f724d13dd66c65",
+      "kind": "saved",
+      "name": "US 19;US 98;US 27 Alternate",
+      "city": "Fanning Springs",
+      "latitude": 29.58801,
+      "longitude": -82.93395,
+      "firstSeen": "2026-04-07",
+      "lastSeen": "2026-04-07"
+    },
+    {
+      "id": "sp_356a0f6c3c2f45d0",
+      "kind": "saved",
+      "name": "Suwannee",
+      "city": "Suwannee",
+      "latitude": 29.32766,
+      "longitude": -83.14248,
+      "firstSeen": "2026-04-07",
+      "lastSeen": "2026-04-07"
+    },
+    {
+      "id": "sp_df21f5581a576506",
+      "kind": "saved",
+      "name": "Boardwalk",
+      "city": "Boardwalk",
+      "latitude": 29.49051,
+      "longitude": -82.98258,
+      "firstSeen": "2026-04-07",
+      "lastSeen": "2026-04-07"
+    },
+    {
+      "id": "sp_2c6e119a136f312c",
+      "kind": "saved",
+      "name": "Gainesville",
+      "city": "Gainesville",
+      "latitude": 29.63768,
+      "longitude": -82.47208,
+      "firstSeen": "2026-04-07",
+      "lastSeen": "2026-04-12"
+    },
+    {
+      "id": "sp_2204dfee691aed1c",
+      "kind": "saved",
+      "name": "Alachua County",
+      "city": "Alachua County",
+      "latitude": 29.60329,
+      "longitude": -82.29959,
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    {
+      "id": "sp_dc4dfb55cd4fccbb",
+      "kind": "saved",
+      "name": "Town of Tioga",
+      "city": "Town of Tioga",
+      "latitude": 29.65564,
+      "longitude": -82.48284,
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    {
+      "id": "sp_fea4365824568996",
+      "kind": "saved",
+      "name": "Armstrong",
+      "city": "Armstrong",
+      "latitude": 29.77349,
+      "longitude": -81.45094,
+      "firstSeen": "2026-04-12",
+      "lastSeen": "2026-04-12"
+    },
+    {
+      "id": "sp_838e3e6d54e7449b",
+      "kind": "saved",
+      "name": "Saint Augustine Shores",
+      "city": "Saint Augustine Shores",
+      "latitude": 29.8106,
+      "longitude": -81.29383,
+      "firstSeen": "2026-04-12",
+      "lastSeen": "2026-04-22"
+    },
+    {
+      "id": "sp_e01c4834c8935f5a",
+      "kind": "saved",
+      "name": "Saint Augustine",
+      "city": "Saint Augustine",
+      "latitude": 29.89108,
+      "longitude": -81.31218,
+      "firstSeen": "2026-04-13",
+      "lastSeen": "2026-04-13"
+    },
+    {
+      "id": "sp_a81bb8c1d36c55db",
+      "kind": "saved",
+      "name": "Marathon",
+      "city": "Marathon",
+      "latitude": 24.74135,
+      "longitude": -80.98423,
+      "firstSeen": "2026-04-19",
+      "lastSeen": "2026-04-20"
+    },
+    {
+      "id": "sp_7a03cc7db2e27453",
+      "kind": "saved",
+      "name": "Old US 1",
+      "city": "Old US 1",
+      "latitude": 24.66171,
+      "longitude": -81.26592,
+      "firstSeen": "2026-04-20",
+      "lastSeen": "2026-04-20"
+    },
+    {
+      "id": "sp_875e3c40108e3d9e",
+      "kind": "saved",
+      "name": "Stock Island",
+      "city": "Stock Island",
+      "latitude": 24.56759,
+      "longitude": -81.73682,
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    {
+      "id": "sp_8bc4fe849cafe80e",
+      "kind": "saved",
+      "name": "Key West",
+      "city": "Key West",
+      "latitude": 24.557,
+      "longitude": -81.80383,
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    {
+      "id": "sp_17930327af655553",
+      "kind": "saved",
+      "name": "Green Parrot Bar",
+      "city": "Key West",
+      "latitude": 24.55601,
+      "longitude": -81.80489,
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    {
+      "id": "sp_10724a11a81ba9e5",
+      "kind": "saved",
+      "name": "Dolly Parton Children's Hospital South",
+      "city": "Knoxville",
+      "latitude": 35.95633,
+      "longitude": -83.93451,
+      "firstSeen": "2026-04-27",
+      "lastSeen": "2026-04-27"
+    },
+    {
+      "id": "sp_468fa827cb91ec39",
+      "kind": "saved",
+      "name": "Durham",
+      "city": "Durham",
+      "latitude": 36.00639,
+      "longitude": -78.93802,
+      "firstSeen": "2026-05-07",
+      "lastSeen": "2026-05-07"
+    },
+    {
+      "id": "sp_5a6ccd693210db2d",
+      "kind": "saved",
+      "name": "The Square",
+      "city": "Crozet",
+      "latitude": 38.06994,
+      "longitude": -78.70245,
+      "firstSeen": "2026-05-17",
+      "lastSeen": "2026-05-17"
+    },
+    {
+      "id": "sp_862a785728f18b89",
+      "kind": "saved",
+      "name": "North Bend State Park campground",
+      "city": "Cornwallis",
+      "latitude": 39.22767,
+      "longitude": -81.10346,
+      "firstSeen": "2026-05-17",
+      "lastSeen": "2026-05-17"
+    },
+    {
+      "id": "sp_75aa306cc35e319e",
+      "kind": "saved",
+      "name": "West Union Thrift Shop",
+      "city": "West Union",
+      "latitude": 39.29594,
+      "longitude": -80.77869,
+      "firstSeen": "2026-05-18",
+      "lastSeen": "2026-05-19"
+    },
+    {
+      "id": "sp_7aa4556c0bbc2d20",
+      "kind": "saved",
+      "name": "I 40",
+      "city": "Country Cove",
+      "latitude": 35.97556,
+      "longitude": -80.50449,
+      "firstSeen": "2026-05-28",
+      "lastSeen": "2026-05-28"
+    },
+    {
+      "id": "sp_581733246c0c6530",
+      "kind": "saved",
+      "name": "Morehead City",
+      "city": "Morehead City",
+      "latitude": 34.72595,
+      "longitude": -76.72752,
+      "firstSeen": "2026-05-28",
+      "lastSeen": "2026-07-14"
+    },
+    {
+      "id": "sp_653aca3d67837f41",
+      "kind": "saved",
+      "name": "North Pack Square",
+      "city": "Asheville",
+      "latitude": 35.59649,
+      "longitude": -82.55387,
+      "firstSeen": "2026-05-31",
+      "lastSeen": "2026-05-31"
+    },
+    {
+      "id": "sp_bb51f997eb0c24fd",
+      "kind": "saved",
+      "name": "Knoxville",
+      "city": "Knoxville",
+      "latitude": 36.01282,
+      "longitude": -84.00734,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-10-02"
+    },
+    {
+      "id": "sp_eb84257a7fdaaaf6",
+      "kind": "saved",
+      "name": "Transylvania County",
+      "city": "Transylvania County",
+      "latitude": 35.30192,
+      "longitude": -82.79692,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "id": "sp_1022eecc8cb4fe32",
+      "kind": "saved",
+      "name": "Durham",
+      "city": "Durham",
+      "latitude": 36.04395,
+      "longitude": -78.93583,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "id": "sp_9e13366587893555",
+      "kind": "saved",
+      "name": "I 40",
+      "city": "Winston-Salem",
+      "latitude": 36.07337,
+      "longitude": -80.32739,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30"
+    },
+    {
+      "id": "sp_469b8ac1b7d977d5",
+      "kind": "saved",
+      "name": "Carter County",
+      "city": "Carter County",
+      "latitude": 36.15998,
+      "longitude": -82.10279,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "id": "sp_a652669faab40c2b",
+      "kind": "saved",
+      "name": "Clifftop",
+      "city": "Clifftop",
+      "latitude": 38.00838,
+      "longitude": -80.96921,
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    {
+      "id": "sp_5634c74318bc7e0d",
+      "kind": "saved",
+      "name": "I 81",
+      "city": "Blessing",
+      "latitude": 36.92481,
+      "longitude": -81.21721,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "id": "sp_53c65cef3b721bbb",
+      "kind": "saved",
+      "name": "Mitchell County",
+      "city": "Mitchell County",
+      "latitude": 36.15825,
+      "longitude": -82.20744,
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24"
+    },
+    {
+      "id": "sp_d6c819b5508b428f",
+      "kind": "saved",
+      "name": "\u0158\u00ed\u010dn\u00ed",
+      "city": "\u010cesko",
+      "latitude": 50.08171,
+      "longitude": 14.40415,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    {
+      "id": "sp_09010bb9616e0dc5",
+      "kind": "saved",
+      "name": "Rue Sommeiller",
+      "city": "France",
+      "latitude": 45.90264,
+      "longitude": 6.12382,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "id": "sp_087a93875906e4bd",
+      "kind": "saved",
+      "name": "Agence des asters",
+      "city": "France",
+      "latitude": 45.90518,
+      "longitude": 6.11601,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "id": "sp_de7d4f579de9259f",
+      "kind": "saved",
+      "name": "Promenade Louis Lachenal",
+      "city": "France",
+      "latitude": 45.89881,
+      "longitude": 6.12184,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "id": "sp_c2cf81ee996aba9c",
+      "kind": "saved",
+      "name": "Rue des Gli\u00e8res",
+      "city": "France",
+      "latitude": 45.89901,
+      "longitude": 6.11951,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "id": "sp_8a662a5591d61f1b",
+      "kind": "saved",
+      "name": "Passage des Serrassons",
+      "city": "France",
+      "latitude": 45.81062,
+      "longitude": 6.19563,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "id": "sp_763cae82b8b93358",
+      "kind": "saved",
+      "name": "Saint-Michel",
+      "city": "France",
+      "latitude": 45.82623,
+      "longitude": 6.2052,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "id": "sp_44877564097a1c84",
+      "kind": "saved",
+      "name": "Fontaine des Quatre-Saisons",
+      "city": "Schweiz/Suisse/Svizzera/Svizra",
+      "latitude": 46.20193,
+      "longitude": 6.15538,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13"
+    },
+    {
+      "id": "sp_40c6b1f8d31e8dbe",
+      "kind": "saved",
+      "name": "Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Schweiz/Suisse/Svizzera/Svizra",
+      "latitude": 46.20347,
+      "longitude": 6.15278,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13"
+    },
+    {
+      "id": "sp_1fab51f1810f1f97",
+      "kind": "saved",
+      "name": "Woodfin",
+      "city": "Woodfin",
+      "latitude": 35.65809,
+      "longitude": -82.58161,
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "sp_70e5e64389379ee9",
+      "kind": "saved",
+      "name": "Eda's Hideaway",
+      "city": "New Stock Road",
+      "latitude": 35.71264,
+      "longitude": -82.59831,
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    {
+      "id": "sp_7f190e8964978ea9",
+      "kind": "saved",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.59751,
+      "longitude": -82.54954,
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    {
+      "id": "sp_ab0a3195d08e6405",
+      "kind": "saved",
+      "name": "Grayson County",
+      "city": "Grayson County",
+      "latitude": 36.64922,
+      "longitude": -81.51503,
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "sp_8137df44b9591708",
+      "kind": "saved",
+      "name": "Macon County",
+      "city": "Macon County",
+      "latitude": 35.07167,
+      "longitude": -83.50091,
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": "sp_c74bd2d9683eb493",
+      "kind": "saved",
+      "name": "Macon County",
+      "city": "Macon County",
+      "latitude": 35.08018,
+      "longitude": -83.50841,
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": "sp_b5898cee86417182",
+      "kind": "saved",
+      "name": "Atlantic Beach",
+      "city": "Atlantic Beach",
+      "latitude": 34.69413,
+      "longitude": -76.70114,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": "sp_041aae76966e2e46",
+      "kind": "saved",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.58011,
+      "longitude": -82.52559,
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    {
+      "id": "sp_040cdf37ccbd8bdd",
+      "kind": "saved",
+      "name": "Texas",
+      "city": "Texas",
+      "latitude": 32.94133,
+      "longitude": -97.03391,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09"
+    },
+    {
+      "id": "sp_4b3dbabd8a52f735",
+      "kind": "saved",
+      "name": "M\u0101ngere-\u014ct\u0101huhu",
+      "city": "M\u0101ngere-\u014ct\u0101huhu",
+      "latitude": -37.00075,
+      "longitude": 174.79672,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09"
+    },
+    {
+      "id": "sp_82b29e89ed7f15b5",
+      "kind": "saved",
+      "name": "Devonport-Takapuna",
+      "city": "Devonport-Takapuna",
+      "latitude": -36.82662,
+      "longitude": 174.79981,
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09"
+    },
+    {
+      "id": "sp_712b974e605d8284",
+      "kind": "saved",
+      "name": "Downtown Ferry Terminal",
+      "city": "Waitemat\u0101",
+      "latitude": -36.84276,
+      "longitude": 174.76713,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    {
+      "id": "sp_bd6c9ec98e48fb2d",
+      "kind": "saved",
+      "name": "M\u0101tiatia Wharf",
+      "city": "Waiheke",
+      "latitude": -36.78084,
+      "longitude": 174.9888,
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    {
+      "id": "sp_70442223ca4c2ef1",
+      "kind": "saved",
+      "name": "Alibi Brewing Co",
+      "city": "Waiheke",
+      "latitude": -36.80023,
+      "longitude": 175.07064,
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12"
+    },
+    {
+      "id": "sp_16c3cf5c265dd834",
+      "kind": "saved",
+      "name": "Rotorua",
+      "city": "Rotorua",
+      "latitude": -38.16207,
+      "longitude": 176.24278,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "sp_44cc8df0871e22d4",
+      "kind": "saved",
+      "name": "Rosebank",
+      "city": "Whakarewarewa",
+      "latitude": -38.1739,
+      "longitude": 176.25103,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "sp_911a44bf1cd637e7",
+      "kind": "saved",
+      "name": "Forest Loop | T\u016bhua",
+      "city": "Te Papa Tipu Innovation Park",
+      "latitude": -38.15969,
+      "longitude": 176.28745,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "sp_f6f0d67dbb23bebf",
+      "kind": "saved",
+      "name": "The Pinnacles Track",
+      "city": "Thames-Coromandel District",
+      "latitude": -37.04094,
+      "longitude": 175.71063,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "sp_9ad73c6f6e1b12b5",
+      "kind": "saved",
+      "name": "Hotoritori Campsite",
+      "city": "Kauaeranga Valley Road",
+      "latitude": -37.10147,
+      "longitude": 175.63719,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "sp_8a3ba561c7f961ef",
+      "kind": "saved",
+      "name": "Whakapapa Village",
+      "city": "Whakapapa Village",
+      "latitude": -39.19742,
+      "longitude": 175.53635,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    {
+      "id": "sp_255c0ada244a7bbe",
+      "kind": "saved",
+      "name": "Tongariro Alpine Crossing",
+      "city": "Tongariro Alpine Crossing",
+      "latitude": -39.14129,
+      "longitude": 175.63387,
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    {
+      "id": "sp_b3ab7b242eb4ffbe",
+      "kind": "saved",
+      "name": "Taumarunui",
+      "city": "Taumarunui",
+      "latitude": -38.8838,
+      "longitude": 175.2537,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    {
+      "id": "sp_b7498c4b362edf19",
+      "kind": "saved",
+      "name": "\u014cakura",
+      "city": "\u014cakura",
+      "latitude": -39.11515,
+      "longitude": 173.9465,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    {
+      "id": "sp_9239b60624394766",
+      "kind": "saved",
+      "name": "New Plymouth",
+      "city": "New Plymouth",
+      "latitude": -39.17172,
+      "longitude": 174.06409,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23"
+    },
+    {
+      "id": "sp_b4d2f51f31a3f8cd",
+      "kind": "saved",
+      "name": "Pou\u0101kai Crossing Car Park",
+      "city": "New Plymouth",
+      "latitude": -39.2018,
+      "longitude": 174.05453,
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23"
+    },
+    {
+      "id": "sp_297d495ecfbf3cdc",
+      "kind": "saved",
+      "name": "Whanganui",
+      "city": "Whanganui",
+      "latitude": -39.94157,
+      "longitude": 174.97433,
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24"
+    },
+    {
+      "id": "wb_d0f1bac828b1c256",
+      "kind": "automated",
+      "name": "Marathon",
+      "city": "Marathon",
+      "latitude": 24.70905,
+      "longitude": -81.08295,
+      "firstSeen": "2026-04-20",
+      "lastSeen": "2026-04-20"
+    },
+    {
+      "id": "wb_6e8b424af6115c0c",
+      "kind": "automated",
+      "name": "Perky",
+      "city": "Perky",
+      "latitude": 24.64135,
+      "longitude": -81.57374,
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    {
+      "id": "wb_2cc86825006e2e9f",
+      "kind": "automated",
+      "name": "Islamorada",
+      "city": "Islamorada",
+      "latitude": 24.96633,
+      "longitude": -80.566,
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    {
+      "id": "wb_3672b3dae974800c",
+      "kind": "automated",
+      "name": "I 95",
+      "city": "Savannah",
+      "latitude": 32.15671,
+      "longitude": -81.23605,
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    {
+      "id": "wb_8c30d1d78188ed9f",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.57498,
+      "longitude": -82.53557,
+      "firstSeen": "2026-04-24",
+      "lastSeen": "2026-10-31"
+    },
+    {
+      "id": "wb_467f168bff08bdab",
+      "kind": "automated",
+      "name": "Dolly Parton Children's Hospital South",
+      "city": "Knoxville",
+      "latitude": 35.9532,
+      "longitude": -83.93559,
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29"
+    },
+    {
+      "id": "wb_a0f48fcfc1f73ebb",
+      "kind": "automated",
+      "name": "Regas Square",
+      "city": "Knoxville",
+      "latitude": 35.97151,
+      "longitude": -83.91898,
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
+    },
+    {
+      "id": "wb_35efcf726be1e9f0",
+      "kind": "automated",
+      "name": "Troutman",
+      "city": "Troutman",
+      "latitude": 35.71072,
+      "longitude": -80.89128,
+      "firstSeen": "2026-05-01",
+      "lastSeen": "2026-05-01"
+    },
+    {
+      "id": "wb_334c2c714852373f",
+      "kind": "automated",
+      "name": "Durham",
+      "city": "Durham",
+      "latitude": 35.97923,
+      "longitude": -78.93493,
+      "firstSeen": "2026-05-07",
+      "lastSeen": "2026-05-07"
+    },
+    {
+      "id": "wb_16a038a923d03f39",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.57451,
+      "longitude": -82.52583,
+      "firstSeen": "2026-05-13",
+      "lastSeen": "2026-05-13"
+    },
+    {
+      "id": "wb_b2d2200ce1ab7fe6",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.57867,
+      "longitude": -82.5224,
+      "firstSeen": "2026-05-14",
+      "lastSeen": "2026-06-12"
+    },
+    {
+      "id": "wb_11e4edec4f31c6b4",
+      "kind": "automated",
+      "name": "I 81;US 11",
+      "city": "Harvey",
+      "latitude": 37.5506,
+      "longitude": -79.66458,
+      "firstSeen": "2026-05-15",
+      "lastSeen": "2026-05-15"
+    },
+    {
+      "id": "wb_af93cc17b36509dd",
+      "kind": "automated",
+      "name": "Ellenboro",
+      "city": "Ellenboro",
+      "latitude": 39.26998,
+      "longitude": -81.04736,
+      "firstSeen": "2026-05-19",
+      "lastSeen": "2026-05-19"
+    },
+    {
+      "id": "wb_96a566942611c24e",
+      "kind": "automated",
+      "name": "Ingles",
+      "city": "Asheville",
+      "latitude": 35.59421,
+      "longitude": -82.53644,
+      "firstSeen": "2026-05-21",
+      "lastSeen": "2026-05-21"
+    },
+    {
+      "id": "wb_8836aba8f80640ee",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.59145,
+      "longitude": -82.52759,
+      "firstSeen": "2026-05-26",
+      "lastSeen": "2026-05-26"
+    },
+    {
+      "id": "wb_af026ebae98948d8",
+      "kind": "automated",
+      "name": "Goldsboro Bypass",
+      "city": "Belfast",
+      "latitude": 35.4269,
+      "longitude": -77.98311,
+      "firstSeen": "2026-05-28",
+      "lastSeen": "2026-05-28"
+    },
+    {
+      "id": "wb_79b966d8a1f47c4e",
+      "kind": "automated",
+      "name": "Morehead City",
+      "city": "Morehead City",
+      "latitude": 34.72156,
+      "longitude": -76.72552,
+      "firstSeen": "2026-05-29",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": "wb_3e3ee523e388145d",
+      "kind": "automated",
+      "name": "The Black Cat",
+      "city": "The Black Cat",
+      "latitude": 34.68184,
+      "longitude": -76.6163,
+      "firstSeen": "2026-05-30",
+      "lastSeen": "2026-05-30"
+    },
+    {
+      "id": "wb_b19dc0ce991f9cbc",
+      "kind": "automated",
+      "name": "Alamance County",
+      "city": "Alamance County",
+      "latitude": 36.06599,
+      "longitude": -79.53152,
+      "firstSeen": "2026-06-02",
+      "lastSeen": "2026-06-02"
+    },
+    {
+      "id": "wb_9e3d403e7da574da",
+      "kind": "automated",
+      "name": "Mount Airy High School",
+      "city": "Mount Airy",
+      "latitude": 36.51186,
+      "longitude": -80.61756,
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-06"
+    },
+    {
+      "id": "wb_2bbacbfec1381a48",
+      "kind": "automated",
+      "name": "I 40",
+      "city": "Providence",
+      "latitude": 35.63429,
+      "longitude": -82.07946,
+      "firstSeen": "2026-06-07",
+      "lastSeen": "2026-06-07"
+    },
+    {
+      "id": "wb_812534817cc0dadf",
+      "kind": "automated",
+      "name": "Haywood County",
+      "city": "Haywood County",
+      "latitude": 35.32594,
+      "longitude": -82.87641,
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-16"
+    },
+    {
+      "id": "wb_3e471f84b026f7e2",
+      "kind": "automated",
+      "name": "Knoxville",
+      "city": "Knoxville",
+      "latitude": 36.01134,
+      "longitude": -84.01039,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-10-02"
+    },
+    {
+      "id": "wb_ebba8d5a7044d1d2",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.60178,
+      "longitude": -82.54822,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": "wb_25390e1e862bdc60",
+      "kind": "automated",
+      "name": "Transylvania County",
+      "city": "Transylvania County",
+      "latitude": 35.29543,
+      "longitude": -82.78763,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "id": "wb_35a1c4cacd533066",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.57339,
+      "longitude": -82.53924,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": "wb_292a0eccf8d6a3fc",
+      "kind": "automated",
+      "name": "Asheville",
+      "city": "Asheville",
+      "latitude": 35.58855,
+      "longitude": -82.55374,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "id": "wb_3cadaaca8357dc68",
+      "kind": "automated",
+      "name": "I 40",
+      "city": "Conover",
+      "latitude": 35.70257,
+      "longitude": -81.25627,
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30"
+    },
+    {
+      "id": "wb_d42f46cc2fb56c6a",
+      "kind": "automated",
+      "name": "Zadie's Market",
+      "city": "Marshall",
+      "latitude": 35.79793,
+      "longitude": -82.68125,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "id": "wb_4cb049fa2c0947d0",
+      "kind": "automated",
+      "name": "Holeman + Finch Asheville",
+      "city": "Asheville",
+      "latitude": 35.59021,
+      "longitude": -82.55009,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "id": "wb_876edd615fa23b31",
+      "kind": "automated",
+      "name": "Chapel Hill",
+      "city": "Chapel Hill",
+      "latitude": 35.95179,
+      "longitude": -79.00426,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "id": "wb_d88039595c8fa351",
+      "kind": "automated",
+      "name": "Morehead City",
+      "city": "Morehead City",
+      "latitude": 34.72296,
+      "longitude": -76.72146,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    {
+      "id": "wb_38882273d1505f1d",
+      "kind": "automated",
+      "name": "Great Island Cabins",
+      "city": "Back Road",
+      "latitude": 34.75948,
+      "longitude": -76.41526,
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "id": "wb_0a5f3ce6de6a8e86",
+      "kind": "automated",
+      "name": "Morehead City",
+      "city": "Morehead City",
+      "latitude": 34.72643,
+      "longitude": -76.74591,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "id": "wb_a7b3d274cc5b0d68",
+      "kind": "automated",
+      "name": "Clifftop",
+      "city": "Clifftop",
+      "latitude": 38.00917,
+      "longitude": -80.96753,
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "id": "wb_d7798a88cc8664dc",
+      "kind": "automated",
+      "name": "I 77",
+      "city": "South Gap",
+      "latitude": 37.1694,
+      "longitude": -81.14356,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "id": "wb_bfdedc56d596db54",
+      "kind": "automated",
+      "name": "Kingsport",
+      "city": "Kingsport",
+      "latitude": 36.51317,
+      "longitude": -82.43361,
+      "firstSeen": "2026-08-10",
+      "lastSeen": "2026-08-10"
+    },
+    {
+      "id": "wb_e85cbb047da386fe",
+      "kind": "automated",
+      "name": "Sherwood Forest",
+      "city": "Sherwood Forest",
+      "latitude": 35.59342,
+      "longitude": -82.43152,
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    {
+      "id": "wb_95536edab8970d9e",
+      "kind": "automated",
+      "name": "Mitchell County",
+      "city": "Mitchell County",
+      "latitude": 36.14522,
+      "longitude": -82.16536,
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24"
+    },
+    {
+      "id": "wb_0a1f5665f3201ab3",
+      "kind": "automated",
+      "name": "Duke Eye Center",
+      "city": "Durham",
+      "latitude": 36.00699,
+      "longitude": -78.93733,
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    {
+      "id": "wb_2a615e058cec1eeb",
+      "kind": "automated",
+      "name": "Richmond-Petersburg Turnpike",
+      "city": "Colonial Heights",
+      "latitude": 37.249,
+      "longitude": -77.3914,
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30"
+    },
+    {
+      "id": "wb_ea0a672f93714745",
+      "kind": "automated",
+      "name": "Maryland",
+      "city": "Maryland",
+      "latitude": 39.60424,
+      "longitude": -75.87257,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "wb_3a40202b3ae15657",
+      "kind": "automated",
+      "name": "La Bastille",
+      "city": "\u010cesko",
+      "latitude": 50.08099,
+      "longitude": 14.40122,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-03"
+    },
+    {
+      "id": "wb_18cbcd0e14b9d3e6",
+      "kind": "automated",
+      "name": "La Gal\u00e9jade",
+      "city": "France",
+      "latitude": 45.9005,
+      "longitude": 6.1269,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "id": "wb_5b0ee59b6aab3dbf",
+      "kind": "automated",
+      "name": "Promenade Docteur Paul Louis Servettaz",
+      "city": "France",
+      "latitude": 45.90587,
+      "longitude": 6.13924,
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09"
+    },
+    {
+      "id": "wb_2914b569d6ec2da1",
+      "kind": "automated",
+      "name": "Agence des asters",
+      "city": "France",
+      "latitude": 45.90328,
+      "longitude": 6.11613,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "id": "wb_edec5fff1f4f07a1",
+      "kind": "automated",
+      "name": "Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Schweiz/Suisse/Svizzera/Svizra",
+      "latitude": 46.23022,
+      "longitude": 6.08629,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13"
+    },
+    {
+      "id": "wb_8e386a50b7d4cef2",
+      "kind": "automated",
+      "name": "Rockingham County",
+      "city": "Rockingham County",
+      "latitude": 38.35984,
+      "longitude": -78.92814,
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15"
+    },
+    {
+      "id": "wb_ef39a0d2a30f72f8",
+      "kind": "automated",
+      "name": "Homeside Financial",
+      "city": "Asheville",
+      "latitude": 35.5886,
+      "longitude": -82.52933,
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27"
+    },
+    {
+      "id": "wb_422916854c6c50f1",
+      "kind": "automated",
+      "name": "I 40",
+      "city": "Dandridge",
+      "latitude": 36.02968,
+      "longitude": -83.4581,
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    {
+      "id": "wb_5b466fdbf00c8e97",
+      "kind": "automated",
+      "name": "Ingles Gas Express",
+      "city": "Marshall",
+      "latitude": 35.8106,
+      "longitude": -82.67119,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11"
+    },
+    {
+      "id": "wb_04048262c238ac60",
+      "kind": "automated",
+      "name": "Brickton",
+      "city": "Brickton",
+      "latitude": 35.39881,
+      "longitude": -82.50504,
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": "wb_91376370b692b0d6",
+      "kind": "automated",
+      "name": "Visionworks",
+      "city": "Asheville",
+      "latitude": 35.58033,
+      "longitude": -82.52576,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": "wb_8f68a574faec6764",
+      "kind": "automated",
+      "name": "Walnut",
+      "city": "Walnut",
+      "latitude": 35.84989,
+      "longitude": -82.74222,
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": "wb_d13648505c9905c8",
+      "kind": "automated",
+      "name": "Gilkey",
+      "city": "Gilkey",
+      "latitude": 35.44108,
+      "longitude": -81.98022,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    {
+      "id": "wb_a47b5fea927482e8",
+      "kind": "automated",
+      "name": "Burlington",
+      "city": "Burlington",
+      "latitude": 36.06172,
+      "longitude": -79.53786,
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": "wb_b983aa836562523d",
+      "kind": "automated",
+      "name": "Carteret Health Care Medical Center",
+      "city": "Morehead City",
+      "latitude": 34.72445,
+      "longitude": -76.75729,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    {
+      "id": "wb_882ff1e4f7fd1832",
+      "kind": "automated",
+      "name": "Duke University Hospital",
+      "city": "Durham",
+      "latitude": 36.00915,
+      "longitude": -78.93574,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
+    },
+    {
+      "id": "wb_6308389533e5be57",
+      "kind": "automated",
+      "name": "Devonport-Takapuna",
+      "city": "Devonport-Takapuna",
+      "latitude": -36.82392,
+      "longitude": 174.79842,
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-12"
+    },
+    {
+      "id": "wb_8e981f75af80a327",
+      "kind": "automated",
+      "name": "Rotorua",
+      "city": "Rotorua",
+      "latitude": -38.16161,
+      "longitude": 176.24531,
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "wb_4fb6f1f2570388b4",
+      "kind": "automated",
+      "name": "Whakapapa Holiday Park cabins and lodge",
+      "city": "Whakapapa Village",
+      "latitude": -39.20144,
+      "longitude": 175.54221,
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-20"
+    },
+    {
+      "id": "wb_c80c35c843ec655e",
+      "kind": "automated",
+      "name": "Whakapapa - Waihohonu Track",
+      "city": "Taup\u014d District",
+      "latitude": -39.20777,
+      "longitude": 175.6098,
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    {
+      "id": "wb_c7e42f0e5d8575b2",
+      "kind": "automated",
+      "name": "New Plymouth",
+      "city": "New Plymouth",
+      "latitude": -39.04635,
+      "longitude": 174.10672,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-22"
+    }
+  ]
+}
