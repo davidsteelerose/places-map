@@ -30,7 +30,7 @@
   <h1>David's Places</h1>
   <div class="row">
     <button type="button" class="chip saved on" id="tog-saved" aria-pressed="true">Saved</button>
-    <button type="button" class="chip been on" id="tog-been" aria-pressed="true">Where I've Been</button>
+    <button type="button" class="chip been on" id="tog-been" aria-pressed="true">Daily Snapshot</button>
     <input id="q" type="search" placeholder="Search a city or name" autocomplete="off">
   </div>
   <div id="status">Loading…</div>
@@ -71,7 +71,7 @@
       var m = L.circleMarker([p.latitude, p.longitude], {
         radius: 7, color: color, weight: 2, fillColor: color, fillOpacity: 0.85
       });
-      var kind = p.kind === "automated" ? "Where I've Been" : "Saved Places";
+      var kind = p.kind === "automated" ? "Daily Snapshot" : "Saved Places";
       var html = "<b>" + esc(p.name) + "</b><div style=\"color:#93a3b1;font-size:13px;margin-top:4px\">"
         + esc(kind) + (p.city && p.city !== p.name ? " · " + esc(p.city) : "")
         + (p.lastSeen ? " · " + esc(fmtDay(p.lastSeen)) : "")
