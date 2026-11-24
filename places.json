@@ -2,8 +2,8 @@
   "note": "City-level snapshot for friends. Approximate pins, no streets, no notes, not a live GPS feed.",
   "lastEntryAt": "2026-11-24T06:38:51.281Z",
   "counts": {
-    "saved": 93,
-    "automated": 63
+    "saved": 92,
+    "automated": 62
   },
   "places": [
     {
@@ -25,16 +25,6 @@
       "longitude": -111.60085,
       "firstSeen": "2026-03-20",
       "lastSeen": "2026-03-20"
-    },
-    {
-      "id": "sp_81d6264fb6369dcf",
-      "kind": "saved",
-      "name": "Asheville",
-      "city": "Asheville",
-      "latitude": 35.57605,
-      "longitude": -82.53671,
-      "firstSeen": "2026-03-22",
-      "lastSeen": "2026-11-08"
     },
     {
       "id": "sp_e6133f6545b0dd05",
@@ -975,16 +965,6 @@
       "longitude": -81.23605,
       "firstSeen": "2026-04-23",
       "lastSeen": "2026-04-23"
-    },
-    {
-      "id": "wb_8c30d1d78188ed9f",
-      "kind": "automated",
-      "name": "Asheville",
-      "city": "Asheville",
-      "latitude": 35.57498,
-      "longitude": -82.53557,
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-10-31"
     },
     {
       "id": "wb_467f168bff08bdab",
