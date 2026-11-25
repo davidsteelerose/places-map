@@ -1,18 +1,18 @@
 {
-  "note": "City-level photo pins for friends. Approximate location, no embedded GPS, not a live feed.",
+  "note": "Photo pins at EXIF GPS (no jitter). No embedded GPS in the JPEGs, not a live feed.",
   "photos": [
     {
       "id": "ph_1b3441f571823f78",
       "file": "photos/ph_1b3441f571823f78.jpg",
-      "latitude": -39.05548,
-      "longitude": 174.04529,
+      "latitude": -39.055253,
+      "longitude": 174.045319,
       "date": "2026-11-22"
     },
     {
       "id": "ph_712b726007a54ca7",
       "file": "photos/ph_712b726007a54ca7.jpg",
-      "latitude": -39.11418,
-      "longitude": 173.94429,
+      "latitude": -39.115817,
+      "longitude": 173.947481,
       "date": "2026-11-21"
     }
   ]
