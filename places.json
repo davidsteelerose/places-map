@@ -1,6 +1,6 @@
 {
   "note": "City-level snapshot for friends. Approximate pins, no streets, no notes, not a live GPS feed.",
-  "lastEntryAt": "2026-11-25T01:26:54.606Z",
+  "lastEntryAt": "2026-11-25T03:17:42.165Z",
   "counts": {
     "saved": 93,
     "automated": 63
@@ -931,7 +931,7 @@
       "kind": "saved",
       "name": "Saved Places",
       "city": "Saved Places",
-      "latitude": -41.30827,
+      "latitude": -41.30826,
       "longitude": 174.76619,
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25"
