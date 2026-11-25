@@ -93,7 +93,7 @@
         var src = ph.file || "";
         var html = "<b>Photo</b><div style=\"color:#93a3b1;font-size:13px;margin-top:4px\">"
           + (ph.date ? esc(ph.date) + " · " : "")
-          + "Approximate location</div>";
+          + "Photo location</div>";
         if (src) html += "<img class=\"popup-photo\" alt=\"\" src=\"" + esc(src) + "\">";
         m.bindPopup(html, { maxWidth: 260 });
         m.addTo(layer);
