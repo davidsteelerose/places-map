@@ -40,8 +40,7 @@
     <input id="q" type="search" placeholder="Search a city or name" autocomplete="off">
   </div>
   <div class="row" role="group" aria-label="When">
-    <button type="button" class="chip range" id="tog-range-recent" aria-pressed="false">Recent</button>
-    <button type="button" class="chip range" id="tog-range-month" aria-pressed="false">1 Month</button>
+    <button type="button" class="chip range" id="tog-range-2d" aria-pressed="false">Last 2 Days</button>
     <button type="button" class="chip range" id="tog-range-90" aria-pressed="false">90 Days</button>
     <button type="button" class="chip range on" id="tog-range-all" aria-pressed="true">All</button>
   </div>
@@ -54,7 +53,7 @@
   var SAVED = "#ffd166", BEEN = "#5aa9e6", PHOTO = "#e07a5f";
   var showSaved = true, showBeen = true, showPhoto = true, query = "", payload = null, photos = [];
   var rangeDays = 0;
-  var RANGE_IDS = { 2: "tog-range-recent", 30: "tog-range-month", 90: "tog-range-90", 0: "tog-range-all" };
+  var RANGE_IDS = { 2: "tog-range-2d", 90: "tog-range-90", 0: "tog-range-all" };
   var layer = L.layerGroup();
   var map = L.map("map", { zoomControl: true }).setView([20, 0], 2);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -87,8 +86,7 @@
     return day >= ymdLocal(cutoff);
   }
   function rangeLabel() {
-    if (rangeDays === 2) return "recent (2 days)";
-    if (rangeDays === 30) return "1 month";
+    if (rangeDays === 2) return "last 2 days";
     if (rangeDays === 90) return "90 days";
     return "all";
   }
@@ -154,11 +152,10 @@
   el("tog-photo").onclick = function () { showPhoto = !showPhoto; press("tog-photo", showPhoto); draw(); };
   function setRange(days) {
     rangeDays = days;
-    [2, 30, 90, 0].forEach(function (d) { press(RANGE_IDS[d], d === rangeDays); });
+    [2, 90, 0].forEach(function (d) { press(RANGE_IDS[d], d === rangeDays); });
     draw();
   }
-  el("tog-range-recent").onclick = function () { setRange(2); };
-  el("tog-range-month").onclick = function () { setRange(30); };
+  el("tog-range-2d").onclick = function () { setRange(2); };
   el("tog-range-90").onclick = function () { setRange(90); };
   el("tog-range-all").onclick = function () { setRange(0); };
   el("q").oninput = function () { query = el("q").value; draw(); };
