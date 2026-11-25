@@ -35,6 +35,20 @@
       "latitude": -39.939469,
       "longitude": 174.975814,
       "date": "2026-11-24"
+    },
+    {
+      "id": "ph_68062da46480977e",
+      "file": "photos/ph_68062da46480977e.jpg",
+      "latitude": -39.145192,
+      "longitude": 175.597047,
+      "date": "2026-11-18"
+    },
+    {
+      "id": "ph_f22962b526311e0f",
+      "file": "photos/ph_f22962b526311e0f.jpg",
+      "latitude": -39.134956,
+      "longitude": 175.6521,
+      "date": "2026-11-19"
     }
   ]
 }
