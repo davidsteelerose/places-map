@@ -63,6 +63,48 @@
       "latitude": 45.898819,
       "longitude": 6.126569,
       "date": "2026-09-12"
+    },
+    {
+      "id": "ph_92da19c15a1c0048",
+      "file": "photos/ph_92da19c15a1c0048.jpg",
+      "latitude": 41.144694,
+      "longitude": -8.617456,
+      "date": "2025-06-20"
+    },
+    {
+      "id": "ph_caef43c8c6b0a27e",
+      "file": "photos/ph_caef43c8c6b0a27e.jpg",
+      "latitude": 41.142964,
+      "longitude": -7.789733,
+      "date": "2025-06-21"
+    },
+    {
+      "id": "ph_1082d91960b45779",
+      "file": "photos/ph_1082d91960b45779.jpg",
+      "latitude": 52.854486,
+      "longitude": -9.401314,
+      "date": "2025-07-05"
+    },
+    {
+      "id": "ph_d4057bc875bcc41a",
+      "file": "photos/ph_d4057bc875bcc41a.jpg",
+      "latitude": 52.144178,
+      "longitude": -10.460033,
+      "date": "2025-07-07"
+    },
+    {
+      "id": "ph_731b0efd181409d4",
+      "file": "photos/ph_731b0efd181409d4.jpg",
+      "latitude": 51.502147,
+      "longitude": -0.123994,
+      "date": "2025-07-10"
+    },
+    {
+      "id": "ph_ddaa4cd82d651c22",
+      "file": "photos/ph_ddaa4cd82d651c22.jpg",
+      "latitude": 51.893706,
+      "longitude": -0.776375,
+      "date": "2025-07-13"
     }
   ]
 }
