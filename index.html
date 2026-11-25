@@ -93,7 +93,7 @@
   function matches(p) {
     if (p.kind === "saved" && !showSaved) return false;
     if (p.kind === "automated" && !showBeen) return false;
-    if (p.kind === "automated" && !inWindow(p.lastSeen || p.firstSeen)) return false;
+    if (!inWindow(p.lastSeen || p.firstSeen)) return false;
     var q = query.trim().toLowerCase();
     if (!q) return true;
     return [p.name, p.city, p.kind].join(" ").toLowerCase().indexOf(q) !== -1;
