@@ -7,7 +7,7 @@
 <title>David's Places</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
-  :root { --bg:#0f1216; --panel:#171c22; --line:#26303a; --ink:#e8eef4; --dim:#93a3b1; --saved:#ffd166; --been:#5aa9e6; }
+  :root { --bg:#0f1216; --panel:#171c22; --line:#26303a; --ink:#e8eef4; --dim:#93a3b1; --saved:#ffd166; --been:#5aa9e6; --photo:#e07a5f; }
   * { box-sizing: border-box; }
   html, body { height:100%; margin:0; background:var(--bg); color:var(--ink); font:16px/1.4 system-ui,-apple-system,sans-serif; }
   #bar { position:absolute; z-index:500; left:10px; right:10px; top:10px; background:color-mix(in srgb, var(--panel) 92%, transparent); border:1px solid var(--line); border-radius:12px; padding:10px 12px; }
@@ -17,6 +17,8 @@
   .chip.on { border-color:currentColor; }
   .chip.saved { color:var(--saved); }
   .chip.been { color:var(--been); }
+  .chip.photo { color:var(--photo); }
+  .popup-photo { width:100%; max-width:240px; height:auto; border-radius:8px; display:block; margin-top:8px; }
   #q { flex:1 1 140px; min-width:120px; background:#0b0e12; color:var(--ink); border:1px solid var(--line); border-radius:9px; padding:8px 10px; font:inherit; font-size:16px; }
   #status { color:var(--dim); font-size:12px; margin-top:6px; }
   #map { height:100%; }
@@ -31,6 +33,7 @@
   <div class="row">
     <button type="button" class="chip saved on" id="tog-saved" aria-pressed="true">Saved</button>
     <button type="button" class="chip been on" id="tog-been" aria-pressed="true">Daily Snapshot</button>
+    <button type="button" class="chip photo on" id="tog-photo" aria-pressed="true">Photos</button>
     <input id="q" type="search" placeholder="Search a city or name" autocomplete="off">
   </div>
   <div id="status">Loading…</div>
@@ -39,8 +42,8 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 (function () {
-  var SAVED = "#ffd166", BEEN = "#5aa9e6";
-  var showSaved = true, showBeen = true, query = "", payload = null;
+  var SAVED = "#ffd166", BEEN = "#5aa9e6", PHOTO = "#e07a5f";
+  var showSaved = true, showBeen = true, showPhoto = true, query = "", payload = null, photos = [];
   var layer = L.layerGroup();
   var map = L.map("map", { zoomControl: true }).setView([20, 0], 2);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -80,7 +83,25 @@
       m.addTo(layer);
       bounds.push([p.latitude, p.longitude]);
     });
-    el("status").textContent = places.length + " shown · snapshot, not live GPS";
+    if (showPhoto) {
+      photos.forEach(function (ph) {
+        var q = query.trim().toLowerCase();
+        if (q && String(ph.date || "").indexOf(q) === -1) return;
+        var m = L.circleMarker([ph.latitude, ph.longitude], {
+          radius: 8, color: PHOTO, weight: 2, fillColor: PHOTO, fillOpacity: 0.9
+        });
+        var src = ph.file || "";
+        var html = "<b>Photo</b><div style=\"color:#93a3b1;font-size:13px;margin-top:4px\">"
+          + (ph.date ? esc(ph.date) + " · " : "")
+          + "Approximate location</div>";
+        if (src) html += "<img class=\"popup-photo\" alt=\"\" src=\"" + esc(src) + "\">";
+        m.bindPopup(html, { maxWidth: 260 });
+        m.addTo(layer);
+        bounds.push([ph.latitude, ph.longitude]);
+      });
+    }
+    var nPhoto = showPhoto ? photos.length : 0;
+    el("status").textContent = places.length + " places" + (nPhoto ? " · " + nPhoto + " photos" : "") + " · snapshot, not live GPS";
     return bounds;
   }
   function esc(s) {
@@ -93,9 +114,14 @@
   }
   el("tog-saved").onclick = function () { showSaved = !showSaved; press("tog-saved", showSaved); draw(); };
   el("tog-been").onclick = function () { showBeen = !showBeen; press("tog-been", showBeen); draw(); };
+  el("tog-photo").onclick = function () { showPhoto = !showPhoto; press("tog-photo", showPhoto); draw(); };
   el("q").oninput = function () { query = el("q").value; draw(); };
-  fetch("places.json").then(function (r) { return r.json(); }).then(function (j) {
-    payload = j;
+  Promise.all([
+    fetch("places.json").then(function (r) { return r.json(); }),
+    fetch("photos.json").then(function (r) { return r.ok ? r.json() : { photos: [] }; }).catch(function () { return { photos: [] }; })
+  ]).then(function (pair) {
+    payload = pair[0];
+    photos = (pair[1] && pair[1].photos) ? pair[1].photos : [];
     var bounds = draw();
     if (bounds.length) map.fitBounds(bounds, { padding: [48, 80], maxZoom: 10 });
   }).catch(function (err) {
