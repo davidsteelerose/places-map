@@ -1,9 +1,9 @@
 {
   "note": "City-level snapshot for friends. Approximate pins, no streets, no notes, not a live GPS feed.",
-  "lastEntryAt": "2026-11-25T03:17:42.165Z",
+  "lastEntryAt": "2026-11-25T16:00:04.024Z",
   "counts": {
     "saved": 93,
-    "automated": 63
+    "automated": 64
   },
   "places": [
     {
@@ -1565,6 +1565,16 @@
       "longitude": 174.97691,
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24"
+    },
+    {
+      "id": "wb_9810f292dd12a0ae",
+      "kind": "automated",
+      "name": "Daily Snapshot",
+      "city": "Daily Snapshot",
+      "latitude": -41.30379,
+      "longitude": 174.76617,
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
     }
   ]
 }
