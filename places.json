@@ -1,9 +1,9 @@
 {
   "note": "City-level snapshot for friends. Approximate pins, no streets, no notes, not a live GPS feed.",
-  "lastEntryAt": "2026-11-25T16:00:04.024Z",
+  "lastEntryAt": "2026-11-27T00:24:48.682Z",
   "counts": {
-    "saved": 93,
-    "automated": 64
+    "saved": 95,
+    "automated": 65
   },
   "places": [
     {
@@ -937,6 +937,26 @@
       "lastSeen": "2026-11-25"
     },
     {
+      "id": "sp_93f4e5aace7cffe0",
+      "kind": "saved",
+      "name": "Saved Places",
+      "city": "Saved Places",
+      "latitude": -41.3925,
+      "longitude": 174.04663,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    {
+      "id": "sp_3780a200e9f68d26",
+      "kind": "saved",
+      "name": "Saved Places",
+      "city": "Saved Places",
+      "latitude": -42.4213,
+      "longitude": 173.71296,
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    {
       "id": "wb_d0f1bac828b1c256",
       "kind": "automated",
       "name": "Marathon",
@@ -1575,6 +1595,16 @@
       "longitude": 174.76617,
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25"
+    },
+    {
+      "id": "wb_46745989169828df",
+      "kind": "automated",
+      "name": "Daily Snapshot",
+      "city": "Daily Snapshot",
+      "latitude": -41.3909,
+      "longitude": 174.04949,
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
     }
   ]
 }
